@@ -23,6 +23,14 @@
  								<li><a href="AboutUs.php">About Us</a></li>
 								 <li><a href="ContactUs.php">Contact Us</a></li>
  							</ul>
+							<div class="clear-fix">
+								<ul class="nav nav-pills float-right" style="padding-top: 5px;">
+									<li><a href="https://www.facebook.com" target="_blank">Facebook</a></li>
+									<li><a href="https://www.youtube.com" target="_blank">Youtube</a></li>
+									<li><a href="https://www.intagram.com" target="_blank">Instagram</a></li>
+									<li><a href="https://www.twitter.com" target="_blank">Twitter</a></li>
+								</ul>
+							</div>
 							 <p class="copyright">Copyright © 2021 Fine Clothes Inc. All rights reserved.</p>
 						</div>
 					</div>
