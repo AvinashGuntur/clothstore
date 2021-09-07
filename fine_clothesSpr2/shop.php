@@ -3,7 +3,7 @@
 	
 	
 	<section>
-		<div class="container">
+		<div class="container-fluid" style="padding:0 40px;">
 			<div class="row">
 			
 		<?php include("inc/sidebar.php"); ?>
